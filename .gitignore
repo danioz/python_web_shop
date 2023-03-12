@@ -1,0 +1,12 @@
+/venv/
+/.idea/git_toolbox_prj.xml
+/.idea/misc.xml
+/.idea/inspectionProfiles/profiles_settings.xml
+/.idea/inspectionProfiles/Project_Default.xml
+/.idea/vcs.xml
+/config_files/utils.py
+/.idea/workspace.xml
+/.pytest_cache/
+/tests/user_tests/automation.log
+/tests/user_tests/.pytest_cache/
+/.idea/.gitignore
