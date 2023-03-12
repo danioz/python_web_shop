@@ -10,3 +10,4 @@
 /tests/user_tests/automation.log
 /tests/user_tests/.pytest_cache/
 /.idea/.gitignore
+/.idea/markdown.xml
